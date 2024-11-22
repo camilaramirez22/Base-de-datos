@@ -1,6 +1,8 @@
 CREATE DATABASE BiblioGest;
 GO
 
+---- hola
+
 USE BiblioGest;
 GO
 
